@@ -1,0 +1,49 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-style:italic;
+}
+.nav a{
+    color: black;
+    padding: 40px;
+
+}
+#menu{
+    display: flex;
+    padding: 30px;
+}
+img{
+    height: 300px;
+    width: 200px;
+    margin: 10px;
+}
+.ambiente{
+    background-image:url(../imagenes/conocenos/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.descripcion{
+    padding: 10px;
+}
+.icons{
+    text-align: center;
+    padding: 30px;
+    
+    
+    
+    
+}
+#supericon{
+    display: flex;
+}
+.atencion{
+    width: 400px;
+    height: 400px;
+}
+.talk{
+    width: 400px;
+    height: 400px;
+}
+
